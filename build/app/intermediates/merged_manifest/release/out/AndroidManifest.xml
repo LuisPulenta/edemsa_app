@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.luisnu.rowing_app"
+    package="com.luisnu.edemsa_app"
     android:versionCode="7"
     android:versionName="1.0.7" >
 
@@ -17,9 +17,9 @@
     <application
         android:appComponentFactory="androidx.core.app.CoreComponentFactory"
         android:icon="@mipmap/launcher_icon"
-        android:label="Rowing App" >
+        android:label="Edemsa App" >
         <activity
-            android:name="com.luisnu.rowing_app.MainActivity"
+            android:name="com.luisnu.edemsa_app.MainActivity"
             android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
             android:exported="true"
             android:hardwareAccelerated="true"
@@ -63,7 +63,7 @@
 
         <provider
             android:name="io.flutter.plugins.imagepicker.ImagePickerFileProvider"
-            android:authorities="com.luisnu.rowing_app.flutter.image_provider"
+            android:authorities="com.luisnu.edemsa_app.flutter.image_provider"
             android:exported="false"
             android:grantUriPermissions="true" >
             <meta-data

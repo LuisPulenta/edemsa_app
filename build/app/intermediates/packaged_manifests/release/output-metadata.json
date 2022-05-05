@@ -4,7 +4,7 @@
     "type": "PACKAGED_MANIFESTS",
     "kind": "Directory"
   },
-  "applicationId": "com.luisnu.rowing_app",
+  "applicationId": "com.luisnu.edemsa_app",
   "variantName": "release",
   "elements": [
     {

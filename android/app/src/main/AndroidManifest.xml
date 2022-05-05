@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.luisnu.edemsa_app">
    <application
-        android:label="Rowing App"
+        android:label="Edemsa App"
         android:icon="@mipmap/launcher_icon">
 
 

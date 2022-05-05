@@ -22,7 +22,7 @@
         android:appComponentFactory="androidx.core.app.CoreComponentFactory"
         android:debuggable="true"
         android:icon="@mipmap/launcher_icon"
-        android:label="Rowing App" >
+        android:label="Edemsa App" >
         <activity
             android:name="com.luisnu.edemsa_app.MainActivity"
             android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"

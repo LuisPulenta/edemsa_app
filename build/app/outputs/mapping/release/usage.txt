@@ -403,7 +403,6 @@ kotlin.io.FileTreeWalk$FileTreeWalkIterator$SingleFileState
 com.google.android.gms.common.api.internal.zaao
 io.flutter.plugins.flutter_plugin_android_lifecycle.BuildConfig
 com.google.common.collect.ImmutableSortedMap$1EntrySet
-com.luisnu.rowing_app.R$style
 com.google.common.reflect.ImmutableTypeToInstanceMap
 androidx.core.view.NestedScrollingChild
 kotlinx.coroutines.CoroutineName:
@@ -447,7 +446,6 @@ androidx.fragment.R$style
 androidx.core.database.CursorWindowCompat
 kotlin.NumbersKt__FloorDivModKt
 com.google.common.collect.MapMakerInternalMap$StrongKeyStrongValueEntry$Helper
-com.luisnu.rowing_app.R$dimen
 androidx.core.widget.CheckedTextViewCompat$Api16Impl
 androidx.fragment.app.FragmentStatePagerAdapter
 androidx.annotation.InspectableProperty$FlagEntry
@@ -874,6 +872,7 @@ com.google.android.gms.tasks.zzx
 androidx.core.view.inputmethod.InputContentInfoCompat$InputContentInfoCompatBaseImpl
 com.google.common.hash.ChecksumHashFunction$ChecksumHasher
 com.google.common.util.concurrent.InterruptibleTask$DoNothingRunnable
+com.luisnu.edemsa_app.R$styleable
 kotlinx.coroutines.AwaitKt
 com.google.android.gms.tasks.zzg
 com.google.common.util.concurrent.ServiceManager$EmptyServiceManagerWarning
@@ -3478,7 +3477,6 @@ kotlin.text.CharsKt__CharKt:
 io.flutter.plugins.imagepicker.R$color
 com.google.common.primitives.UnsignedLongs$LexicographicalComparator
 com.google.common.io.CharSource
-com.luisnu.rowing_app.R$string
 kotlinx.coroutines.AwaitKt$joinAll$3
 com.google.common.collect.Tables$1
 com.google.android.gms.common.GoogleApiAvailabilityLight:
@@ -3632,7 +3630,6 @@ com.google.common.collect.ImmutableMultimap$FieldSettersHolder
 androidx.viewpager.widget.PagerTabStrip$1
 androidx.core.content.PermissionChecker$PermissionResult
 com.google.common.escape.Platform$1
-com.luisnu.rowing_app.R$layout
 com.google.android.gms.dynamic.zaa
 androidx.customview.R$drawable
 com.google.common.graph.EndpointPair
@@ -3769,7 +3766,6 @@ io.flutter.embedding.engine.loader.FlutterLoader:
     private static final java.lang.String VMSERVICE_SNAPSHOT_LIBRARY
     private static io.flutter.embedding.engine.loader.FlutterLoader instance
 javax.annotation.CheckForNull
-com.luisnu.rowing_app.R$xml
 com.google.common.primitives.Chars
 androidx.core.app.JobIntentService$CompatWorkEnqueuer
 com.google.common.collect.AbstractNavigableMap
@@ -3908,8 +3904,8 @@ io.flutter.embedding.engine.FlutterEngineConnectionRegistry$FlutterEngineContent
     public android.content.ContentProvider getContentProvider()
     private final android.content.ContentProvider contentProvider
 io.flutter.plugins.connectivity.R$style
-com.google.android.gms.location.GeofencingRequest$Builder
 kotlinx.coroutines.internal.LockFreeLinkedList_commonKt
+com.google.android.gms.location.GeofencingRequest$Builder
 androidx.fragment.R$drawable
 com.google.android.gms.common.server.zaa
 androidx.core.graphics.PaintCompat
@@ -4008,7 +4004,6 @@ com.google.android.gms.common.api.internal.zacr
 com.google.android.gms.common.internal.DowngradeableSafeParcel
 com.google.common.collect.MutableClassToInstanceMap$2
 androidx.core.app.NotificationCompat$Extender
-com.luisnu.rowing_app.R$color
 com.google.common.collect.RegularContiguousSet$SerializedForm
 kotlinx.coroutines.channels.ConflatedBroadcastChannel$Companion
 kotlin.sequences.SequencesKt___SequencesKt$sorted$1
@@ -4373,7 +4368,6 @@ com.google.android.gms.common.api.PendingResult:
     public com.google.android.gms.common.api.TransformedResult then(com.google.android.gms.common.api.ResultTransform)
     public java.lang.Integer zam()
 androidx.core.provider.CallbackWithHandler$2
-com.luisnu.rowing_app.R$integer
 kotlin.text.ScreenFloatValueRegEx
 com.google.common.collect.Interners$1
 com.google.common.collect.ImmutableSortedMap$1
@@ -4513,6 +4507,7 @@ com.google.common.annotations.VisibleForTesting
 kotlinx.coroutines.channels.ChannelsKt__DeprecatedKt$consumesAll$1
 com.google.common.util.concurrent.MoreExecutors$ScheduledListeningDecorator$ListenableScheduledTask
 com.google.android.gms.auth.api.signin.internal.HashAccumulator
+com.luisnu.edemsa_app.R$style
 com.google.android.gms.internal.base.zah
 io.flutter.plugins.camera.features.CameraFeature:
     public abstract java.lang.Object getValue()
@@ -5007,7 +5002,6 @@ com.google.common.util.concurrent.SequentialExecutor$WorkerRunningState
 androidx.core.view.accessibility.AccessibilityNodeInfoCompat$AccessibilityActionCompat
 kotlinx.coroutines.GlobalScope
 com.google.android.gms.common.data.DataBufferUtils
-com.luisnu.rowing_app.R$id
 kotlinx.coroutines.LazyDeferredCoroutine
 kotlinx.coroutines.debug.internal.ConcurrentWeakMap$keys$1
 kotlin.io.ConsoleKt
@@ -5105,6 +5099,7 @@ com.google.android.gms.common.api.internal.LifecycleCallback:
     public void dump(java.lang.String,java.io.FileDescriptor,java.io.PrintWriter,java.lang.String[])
     protected final com.google.android.gms.common.api.internal.LifecycleFragment mLifecycleFragment
 com.google.common.base.Function
+com.luisnu.edemsa_app.R$attr
 kotlinx.coroutines.internal.InlineList:
     public static final void forEachReversed-impl(java.lang.Object,kotlin.jvm.functions.Function1)
     public static java.lang.String toString-impl(java.lang.Object)
@@ -5168,7 +5163,6 @@ com.google.common.collect.Comparators
 com.google.common.collect.ImmutableSet$SerializedForm
 androidx.lifecycle.Lifecycling$1:
     void <init>(androidx.lifecycle.LifecycleEventObserver)
-com.luisnu.rowing_app.R$drawable
 kotlin.reflect.WildcardTypeImpl$Companion
 com.google.android.gms.dynamite.zzl
 com.google.common.collect.ImmutableList$ReverseImmutableList
@@ -5437,6 +5431,7 @@ io.flutter.embedding.engine.systemchannels.DeferredComponentChannel:
     public void completeInstallSuccess(java.lang.String)
     public void completeInstallError(java.lang.String,java.lang.String)
     private static final java.lang.String TAG
+com.luisnu.edemsa_app.R$color
 com.google.common.graph.AbstractUndirectedNetworkConnections
 com.google.common.cache.LocalCache$WeakAccessEntry
 kotlin.collections.unsigned.UArraysKt___UArraysKt$withIndex$3
@@ -5498,6 +5493,7 @@ com.google.android.gms.common.api.internal.zaa
 com.google.android.gms.tasks.OnTokenCanceledListener
 com.google.common.primitives.Ints$IntArrayAsList
 kotlinx.coroutines.selects.SelectBuilder
+com.luisnu.edemsa_app.R
 kotlinx.coroutines.flow.SubscribedFlowCollector$onSubscription$1
 com.google.common.io.CountingInputStream
 kotlin.sequences.SequencesKt___SequencesKt$runningReduce$1
@@ -5817,7 +5813,6 @@ kotlin.collections.CollectionsKt__MutableCollectionsJVMKt:
 kotlinx.coroutines.flow.internal.UndispatchedContextCollector$emitRef$1
 com.google.common.base.CharMatcher$RangesMatcher
 com.google.j2objc.annotations.AutoreleasePool
-com.luisnu.rowing_app.BuildConfig
 kotlin.text.MatcherMatchResult$groups$1
 com.google.common.collect.AbstractMapBasedMultimap$KeySet$1
 com.google.android.gms.common.util.UidVerifier
@@ -6200,6 +6195,7 @@ com.google.android.gms.location.LocationRequest:
     public static final int PRIORITY_BALANCED_POWER_ACCURACY
     public static final int PRIORITY_LOW_POWER
     public static final int PRIORITY_NO_POWER
+com.luisnu.edemsa_app.R$string
 com.google.android.gms.common.internal.ICancelToken:
     public abstract void cancel()
 com.google.common.util.concurrent.MoreExecutors
@@ -6472,6 +6468,7 @@ androidx.core.view.accessibility.AccessibilityNodeProviderCompat$AccessibilityNo
 kotlinx.coroutines.flow.FlowKt__ZipKt$combineTransform$$inlined$combineTransformUnsafe$FlowKt__ZipKt$2
 io.flutter.view.FlutterRunArguments
 kotlin.jvm.JvmWildcard
+com.luisnu.edemsa_app.R$id
 com.google.android.gms.internal.location.zzb:
     static void <clinit>()
     private static com.google.android.gms.internal.location.zzd zzc
@@ -7391,7 +7388,9 @@ androidx.core.content.res.ResourcesCompat:
     private static final java.lang.String TAG
     public static final int ID_NULL
 com.google.common.collect.SortedMultisets
+com.luisnu.edemsa_app.R$layout
 com.google.common.collect.UnmodifiableSortedMultiset
+com.luisnu.edemsa_app.BuildConfig
 com.google.common.cache.LocalCache$Strength
 com.google.common.collect.Multisets$AbstractEntry
 androidx.core.view.WindowInsetsCompat$Impl29
@@ -8078,6 +8077,7 @@ com.google.thirdparty.publicsuffix.TrieParser
 com.google.common.math.LongMath$MillerRabinTester
 androidx.core.R$layout
 com.google.common.collect.RegularContiguousSet$1
+com.luisnu.edemsa_app.R$xml
 androidx.lifecycle.Transformations$2
 com.google.common.collect.Sets$1$1
 kotlinx.coroutines.flow.FlowKt__BuildersKt$asFlow$$inlined$unsafeFlow$7
@@ -8089,6 +8089,7 @@ kotlinx.coroutines.RemoveOnCancel
 io.flutter.embedding.engine.systemchannels.NavigationChannel:
     public void setMethodCallHandler(io.flutter.plugin.common.MethodChannel$MethodCallHandler)
     private static final java.lang.String TAG
+com.luisnu.edemsa_app.R$drawable
 androidx.core.os.ProcessCompat
 kotlin.sequences.SequencesKt___SequencesKt$zipWithNext$1
 androidx.core.widget.TintableCompoundDrawablesView
@@ -8205,6 +8206,7 @@ com.google.common.reflect.TypeToken$TypeFilter$1
 com.google.common.collect.Sets$SubSet
 com.google.common.hash.HashFunction
 kotlin.jvm.internal.FloatSpreadBuilder
+com.luisnu.edemsa_app.R$mipmap
 androidx.loader.content.Loader$ForceLoadContentObserver
 android.support.v4.os.IResultReceiver$Stub$Proxy
 kotlin.jvm.internal.PackageReference:
@@ -9314,6 +9316,7 @@ com.google.common.util.concurrent.AbstractScheduledService$CustomScheduler$Sched
 kotlin.contracts.CallsInPlace
 com.google.common.cache.LocalCache$WeakAccessWriteEntry
 kotlin.ranges.UIntRange$Companion
+com.luisnu.edemsa_app.R$integer
 com.google.common.base.Stopwatch
 com.google.common.collect.Iterators$MergingIterator
 kotlin.UShort$Companion
@@ -9956,7 +9959,6 @@ com.google.common.collect.EnumMultiset$1
 com.google.common.graph.Network
 kotlinx.coroutines.flow.FlowKt__CollectKt$collectIndexed$2
 com.google.common.base.Absent
-com.luisnu.rowing_app.R$attr
 androidx.customview.R$layout
 com.google.android.gms.common.internal.safeparcel.SafeParcelableSerializer
 kotlin.coroutines.CombinedContext$Serialized$Companion
@@ -10610,12 +10612,12 @@ io.flutter.embedding.engine.plugins.shim.ShimRegistrar
 io.flutter.plugins.camera.R$style
 com.google.common.collect.MapMakerInternalMap$WriteThroughEntry
 androidx.collection.LruCache
-com.luisnu.rowing_app.R$styleable
 kotlinx.coroutines.channels.ChannelsKt__DeprecatedKt$distinctBy$1
 kotlin.reflect.KMutableProperty2
 com.google.android.gms.places_placereport.R
 androidx.customview.R$attr
 kotlin.jvm.Strictfp
+com.luisnu.edemsa_app.R$dimen
 androidx.lifecycle.ReportFragment:
     static androidx.lifecycle.ReportFragment get(android.app.Activity)
     void setProcessListener(androidx.lifecycle.ReportFragment$ActivityInitializationListener)
@@ -11214,7 +11216,6 @@ androidx.core.view.WindowInsetsAnimationControlListenerCompat
 androidx.core.content.pm.ShortcutInfoChangeListener
 androidx.core.widget.AutoScrollHelper$ClampedScroller
 androidx.core.widget.CheckedTextViewCompat
-com.luisnu.rowing_app.R$mipmap
 com.google.common.collect.AbstractNavigableMap$1
 com.google.thirdparty.publicsuffix.PublicSuffixPatterns
 com.google.common.hash.LittleEndianByteArray$JavaLittleEndianBytes
@@ -12418,7 +12419,6 @@ org.jetbrains.annotations.PropertyKey
 androidx.annotation.FractionRes
 com.google.common.reflect.Parameter
 com.google.common.graph.AbstractDirectedNetworkConnections$1
-com.luisnu.rowing_app.R
 io.flutter.embedding.engine.dart.DartExecutor$DartEntrypoint:
     public static io.flutter.embedding.engine.dart.DartExecutor$DartEntrypoint createDefault()
     public void <init>(java.lang.String,java.lang.String,java.lang.String)
@@ -13648,5 +13648,5 @@ androidx.arch.core.executor.TaskExecutor:
 androidx.core.view.ViewCompat$AccessibilityViewProperty:
     private final int mContentChangeType
 androidx.lifecycle.DefaultLifecycleObserver$-CC
-io.flutter.plugin.platform.PlatformView$-CC
 io.flutter.plugin.common.BinaryMessenger$-CC
+io.flutter.plugin.platform.PlatformView$-CC

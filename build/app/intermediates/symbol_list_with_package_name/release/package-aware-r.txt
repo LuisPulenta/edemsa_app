@@ -1,4 +1,4 @@
-com.luisnu.rowing_app
+com.luisnu.edemsa_app
 attr activityAction
 attr activityName
 attr alpha

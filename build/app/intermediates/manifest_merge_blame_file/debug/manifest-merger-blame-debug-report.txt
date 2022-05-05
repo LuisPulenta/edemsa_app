@@ -35,7 +35,7 @@
 23        android:debuggable="true"
 24        android:icon="@mipmap/launcher_icon"
 24-->D:\Flutter\edemsa_app\android\app\src\main\AndroidManifest.xml:5:9-45
-25        android:label="Rowing App" >
+25        android:label="Edemsa App" >
 25-->D:\Flutter\edemsa_app\android\app\src\main\AndroidManifest.xml:4:9-35
 26        <activity
 26-->D:\Flutter\edemsa_app\android\app\src\main\AndroidManifest.xml:8:9-37:20

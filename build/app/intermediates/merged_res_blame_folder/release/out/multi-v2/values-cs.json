@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Flutter\\rowing_app\\build\\app\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-cs\\values-cs.xml",
+            "outputFile": "D:\\Flutter\\edemsa_app\\build\\app\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-cs\\values-cs.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Luis\\.gradle\\caches\\transforms-2\\files-2.1\\a7975ba3cb0c3630bd14453686890431\\jetified-play-services-basement-17.0.0\\res\\values-cs\\values.xml",

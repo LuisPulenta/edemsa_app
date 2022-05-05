@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Flutter\\rowing_app\\build\\app\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml",
+            "outputFile": "D:\\Flutter\\edemsa_app\\build\\app\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Luis\\.gradle\\caches\\transforms-2\\files-2.1\\a7975ba3cb0c3630bd14453686890431\\jetified-play-services-basement-17.0.0\\res\\values\\values.xml",
@@ -21,25 +21,6 @@
                     }
                 },
                 {
-                    "source": "D:\\Flutter\\rowing_app\\android\\app\\src\\main\\res\\values\\styles.xml",
-                    "from": {
-                        "startLines": "3,15",
-                        "startColumns": "4,4",
-                        "startOffsets": "173,881",
-                        "endLines": "8,17",
-                        "endColumns": "12,12",
-                        "endOffsets": "525,1045"
-                    },
-                    "to": {
-                        "startLines": "120,126",
-                        "startColumns": "4,4",
-                        "startOffsets": "8584,8940",
-                        "endLines": "125,128",
-                        "endColumns": "12,12",
-                        "endOffsets": "8935,9104"
-                    }
-                },
-                {
                     "source": "C:\\Users\\Luis\\.gradle\\caches\\transforms-2\\files-2.1\\03c633e46d75bfb21f082f0417f55161\\jetified-window-1.0.0-beta04\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,7,8,9,10,11,19,23,34,51",
@@ -56,6 +37,25 @@
                         "endLines": "7,8,9,10,80,149,153,334,351,359",
                         "endColumns": "11,59,51,44,59,24,24,24,24,24",
                         "endOffsets": "339,399,451,496,5108,10419,10616,20309,21423,21816"
+                    }
+                },
+                {
+                    "source": "D:\\Flutter\\edemsa_app\\android\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "3,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "173,881",
+                        "endLines": "8,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "525,1045"
+                    },
+                    "to": {
+                        "startLines": "120,126",
+                        "startColumns": "4,4",
+                        "startOffsets": "8584,8940",
+                        "endLines": "125,128",
+                        "endColumns": "12,12",
+                        "endOffsets": "8935,9104"
                     }
                 },
                 {
