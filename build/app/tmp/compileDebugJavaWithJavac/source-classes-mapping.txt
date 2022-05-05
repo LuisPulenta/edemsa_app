@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/luisnu/edemsa_app/BuildConfig.java
+ com.luisnu.edemsa_app.BuildConfig
