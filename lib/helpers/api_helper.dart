@@ -116,7 +116,7 @@ class ApiHelper {
       return Response(isSuccess: false, message: response.body);
     }
 
-    return Response(isSuccess: true);
+    return Response(isSuccess: true, result: response.body);
   }
 
   static Future<Response> delete(String controller, String id) async {
@@ -587,6 +587,110 @@ class ApiHelper {
     if (decodedJson != null) {
       for (var item in decodedJson) {
         list.add(Novedad.fromJson(item));
+      }
+    }
+    return Response(isSuccess: true, result: list);
+  }
+
+  static Future<Response> GetClientes() async {
+    var url = Uri.parse('${Constants.apiUrl}/api/Inspecciones/GetClientes');
+    var response = await http.get(
+      url,
+      headers: {
+        'content-type': 'application/json',
+        'accept': 'application/json',
+      },
+    );
+    var body = response.body;
+
+    if (response.statusCode >= 400) {
+      return Response(isSuccess: false, message: body);
+    }
+
+    List<Cliente> list = [];
+    var decodedJson = jsonDecode(body);
+    if (decodedJson != null) {
+      for (var item in decodedJson) {
+        list.add(Cliente.fromJson(item));
+      }
+    }
+    return Response(isSuccess: true, result: list);
+  }
+
+  static Future<Response> GetTiposTrabajos(int idcliente) async {
+    var url = Uri.parse(
+        '${Constants.apiUrl}/api/Inspecciones/GetTiposTrabajos/$idcliente');
+    var response = await http.get(
+      url,
+      headers: {
+        'content-type': 'application/json',
+        'accept': 'application/json',
+      },
+    );
+    var body = response.body;
+
+    if (response.statusCode >= 400) {
+      return Response(isSuccess: false, message: body);
+    }
+
+    List<TiposTrabajo> list = [];
+    var decodedJson = jsonDecode(body);
+    if (decodedJson != null) {
+      for (var item in decodedJson) {
+        list.add(TiposTrabajo.fromJson(item));
+      }
+    }
+    return Response(isSuccess: true, result: list);
+  }
+
+  static Future<Response> GetGruposFormularios(
+      int idcliente, int idtipotrabajo) async {
+    var url = Uri.parse(
+        '${Constants.apiUrl}/api/Inspecciones/GetGruposFormularios/$idcliente/$idtipotrabajo');
+    var response = await http.get(
+      url,
+      headers: {
+        'content-type': 'application/json',
+        'accept': 'application/json',
+      },
+    );
+    var body = response.body;
+
+    if (response.statusCode >= 400) {
+      return Response(isSuccess: false, message: body);
+    }
+
+    List<GruposFormulario> list = [];
+    var decodedJson = jsonDecode(body);
+    if (decodedJson != null) {
+      for (var item in decodedJson) {
+        list.add(GruposFormulario.fromJson(item));
+      }
+    }
+    return Response(isSuccess: true, result: list);
+  }
+
+  static Future<Response> GetDetallesFormularios(int idcliente) async {
+    var url = Uri.parse(
+        '${Constants.apiUrl}/api/Inspecciones/GetDetallesFormularios/$idcliente');
+    var response = await http.get(
+      url,
+      headers: {
+        'content-type': 'application/json',
+        'accept': 'application/json',
+      },
+    );
+    var body = response.body;
+
+    if (response.statusCode >= 400) {
+      return Response(isSuccess: false, message: body);
+    }
+
+    List<DetallesFormulario> list = [];
+    var decodedJson = jsonDecode(body);
+    if (decodedJson != null) {
+      for (var item in decodedJson) {
+        list.add(DetallesFormulario.fromJson(item));
       }
     }
     return Response(isSuccess: true, result: list);
